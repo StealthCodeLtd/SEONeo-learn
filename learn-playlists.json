@@ -6,24 +6,31 @@
     "playlistData": [
       {
         "title": "Accounts & Account Buckets",
-        "description": "Learn the basic about Accounts and Account Buckets",
+        "description": "Learn the basics about Accounts and Account Buckets",
         "thumbnail": "https://updater.seoneo.io/learn/Fundamentals - Account Buckets.jpg",
         "duration": 3,
         "videoURL": "https://www.youtube.com/embed/E-rS94B5_MM?si=LDJyUhRV0S8hEZmZ"
       },
       {
         "title": "Account Templates",
-        "description": "Learn the basic about Account Templates",
+        "description": "Learn the basics about Account Templates",
         "thumbnail": "https://updater.seoneo.io/learn/Fundamentals - Account Templates.jpg",
         "duration": 3,
         "videoURL": "https://www.youtube.com/embed/q-Yxap82F5U?si=6StSGyvC5MWlRrvS"
       },
       {
         "title": "Content Buckets",
-        "description": "Learn the basic about Content Buckets",
+        "description": "Learn the basics about Content Buckets",
         "thumbnail": "https://updater.seoneo.io/learn/Fundamentals - Content Buckets.jpg",
         "duration": 4,
         "videoURL": "https://www.youtube.com/embed/t1bJeJR3Wpg?si=vjJWU1dnfJhuwP2J"
+      },
+      {
+        "title": "Link Groups & Diagrams",
+        "description": "Learn the basics about Link Groups and Diagrams",
+        "thumbnail": "https://updater.seoneo.io/learn/Fundamentals - Link Groups and Diagrams.jpg",
+        "duration": 4,
+        "videoURL": "https://www.youtube.com/embed/GFiONJKWdIk?si=PTzfq4lVNyKKdAD_"
       }
     ]
   },
