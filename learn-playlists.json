@@ -38,10 +38,25 @@
       }
     ]
   },
+  "tutorials": {
+    "id": 2,
+    "playlistHeader": "SEO NEO Tutorials",
+    "playlistSubHeader": "A series of step-by-step videos on how to utilize SEO Neo's features.",
+    "playlistData": [
+      {
+        "title": "Heatmap Scheduling",
+        "description": "Heatmap scheduler allows you to plan and automate your heatmap checks in advance, making it easier to align with specific business hours or manage tasks when you're away.",
+        "thumbnail": "https://updater.seoneo.io/learn/Tutorial - Heatmap Scheduling.png",
+        "duration": 3,
+        "videoURL": "https://www.youtube.com/embed/K0kB9b6ECmM?si=gsjUlDgd09T7SXvX",
+        "isNew":true
+      }
+    ]
+  },
   "tips&tricks": {
     "id": 1,
     "playlistHeader": "SEO NEO Tips & Tricks",
-    "playlistSubHeader": "A series of videos on how to use SEO Neo and how to utilize it's features.",
+    "playlistSubHeader": "A series of videos with tips on how to use SEO Neo more effectively.",
     "playlistData": [
       {
         "title": "Using Wizards",
