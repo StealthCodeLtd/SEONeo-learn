@@ -45,10 +45,26 @@
     "playlistData": [
       {
         "title": "Heatmap Scheduling",
-        "description": "Heatmap scheduler allows you to plan and automate your heatmap checks in advance, making it easier to align with specific business hours or manage tasks when you're away.",
+        "description": "Heatmap scheduler allows you to plan and automate your heatmap checks in advance.",
         "thumbnail": "https://updater.seoneo.io/learn/Tutorial - Heatmap Scheduling.png",
         "duration": 3,
         "videoURL": "https://www.youtube.com/embed/K0kB9b6ECmM?si=gsjUlDgd09T7SXvX",
+        "isNew":true
+      },
+      {
+        "title": "SEO Autopilot to SEO Neo Migration",
+        "description": "Learn how easy is to migrate from SEO Autopilot to SEO Neo!",
+        "thumbnail": "https://updater.seoneo.io/learn/Tutorial - From SEO Autopilot to SEO Neo.jpg",
+        "duration": 3,
+        "videoURL": "https://www.youtube.com/embed/0PoBMzAC33M?si=cKSC49u-ZGomlZGS",
+        "isNew":true
+      },
+      {
+        "title": "Using Self Hosted Wordpress",
+        "description": "Tutorial on SEO Neo's integration with self-hosted WordPress sites!",
+        "thumbnail": "https://updater.seoneo.io/learn/Tutorial - Using Self-Hosted Wordpress.png",
+        "duration": 5,
+        "videoURL": "https://www.youtube.com/embed/VVL5CJtrq_w?si=Sdpzx4rmXnSTbGou",
         "isNew":true
       }
     ]
