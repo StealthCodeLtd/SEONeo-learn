@@ -151,11 +151,10 @@
     }
   },
   "webinarData": {
-    "title": "SEO Masterclass: Advanced Techniques for 2025",
-    "header": "<strong>SEO Masterclass</strong>: Advanced Techniques for 2025",
-    "description": "<p>Join our comprehensive webinar on the latest SEO strategies and techniques that will boost your website's search engine rankings in 2024.</p>\n      <p><strong>What you'll learn:</strong></p>\n      <ul>\n        <li>Advanced keyword research techniques</li>\n        <li>Technical SEO best practices</li>\n        <li>Content optimization strategies</li>\n        <li>Link building tactics</li>\n        <li>Performance monitoring and analytics</li>\n      </ul>\n      <p>Don't miss this opportunity to learn from industry experts and take your SEO skills to the next level!</p>",
-    "url": "https://google.com",
-    "releaseDate": 1760579134,
+    "title": "New Year Webinar",
+    "header": "<h3>New Year Webinar</h3>",
+    "description":"<h3>Double Your Page 1 Visibility in 30 Days</h3><p></p><p>What if you could <strong>reliably double your Page 1 visibility</strong> in the next <strong>30 days</strong> without chasing every new SEO trick or praying for backlinks to stick?</p><p>The Red to Green Method is a battle-tested system designed to eliminate your search competitors, not just outrank them.</p><h3>Live Training: The Red to Green Method</h3><p></p><p>Join <strong>Elias</strong> and <strong>Michael Merlino</strong> on Tuesday, December 23rd at 3:00 PM Eastern for a live, deep-dive training.</p><p>In this session, they will unpack the complete Red to Green Method, covering everything from high-level strategy to the exact <em>\"wizard combinations\"</em> they use to turn underperforming pages into consistent traffic and revenue drivers.</p><ul><li>Identify pages stuck in the \"red\" and move them into the \"green\"</li><li>Neutralize competitors without relying on risky tactics</li><li>Apply proven on-page and SERP-level optimizations that work fast</li></ul><p><strong>This is not theory.</strong> It’s a repeatable system used to win competitive searches.</p>",    "url": "https://us06web.zoom.us/webinar/register/8917655390629/WN_q4V9lftXRauzyoR1LjJhqg",
+    "releaseDate": 1766520000,
     "isActive": true
   }
 }
