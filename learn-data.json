@@ -1,0 +1,161 @@
+{
+  "learnPlaylists": {
+    "fundamentals": {
+      "id": 0,
+      "playlistHeader": "SEO NEO Fundamentals",
+      "playlistSubHeader": "This video series is tailored for beginners, focusing on the crucial terms and concepts of SEO Neo.",
+      "playlistData": [
+        {
+          "title": "Accounts & Account Buckets",
+          "description": "Learn the basics about Accounts and Account Buckets",
+          "thumbnail": "https://updater.seoneo.io/learn/Fundamentals - Account Buckets.jpg",
+          "duration": 3,
+          "videoURL": "https://www.youtube.com/embed/E-rS94B5_MM?si=LDJyUhRV0S8hEZmZ",
+          "isNew": false
+        },
+        {
+          "title": "Account Templates",
+          "description": "Learn the basics about Account Templates",
+          "thumbnail": "https://updater.seoneo.io/learn/Fundamentals - Account Templates.jpg",
+          "duration": 3,
+          "videoURL": "https://www.youtube.com/embed/q-Yxap82F5U?si=6StSGyvC5MWlRrvS",
+          "isNew": false
+        },
+        {
+          "title": "Content Buckets",
+          "description": "Learn the basics about Content Buckets",
+          "thumbnail": "https://updater.seoneo.io/learn/Fundamentals - Content Buckets.jpg",
+          "duration": 4,
+          "videoURL": "https://www.youtube.com/embed/t1bJeJR3Wpg?si=vjJWU1dnfJhuwP2J",
+          "isNew": false
+        },
+        {
+          "title": "Link Groups & Diagrams",
+          "description": "Learn the basics about Link Groups and Diagrams",
+          "thumbnail": "https://updater.seoneo.io/learn/Fundamentals - Link Groups and Diagrams.jpg",
+          "duration": 4,
+          "videoURL": "https://www.youtube.com/embed/GFiONJKWdIk?si=PTzfq4lVNyKKdAD_",
+          "isNew": true
+        }
+      ]
+    },
+    "tutorials": {
+      "id": 2,
+      "playlistHeader": "SEO NEO Tutorials",
+      "playlistSubHeader": "A series of step-by-step videos on how to utilize SEO Neo's features.",
+      "playlistData": [
+        {
+          "title": "Heatmap Scheduling",
+          "description": "Heatmap scheduler allows you to plan and automate your heatmap checks in advance.",
+          "thumbnail": "https://updater.seoneo.io/learn/Tutorial - Heatmap Scheduling.png",
+          "duration": 3,
+          "videoURL": "https://www.youtube.com/embed/K0kB9b6ECmM?si=gsjUlDgd09T7SXvX",
+          "isNew": true
+        },
+        {
+          "title": "SEO Autopilot to SEO Neo Migration",
+          "description": "Learn how easy is to migrate from SEO Autopilot to SEO Neo!",
+          "thumbnail": "https://updater.seoneo.io/learn/Tutorial - From SEO Autopilot to SEO Neo.jpg",
+          "duration": 3,
+          "videoURL": "https://www.youtube.com/embed/0PoBMzAC33M?si=cKSC49u-ZGomlZGS",
+          "isNew": true
+        },
+        {
+          "title": "Using Self Hosted Wordpress",
+          "description": "Tutorial on SEO Neo's integration with self-hosted WordPress sites!",
+          "thumbnail": "https://updater.seoneo.io/learn/Tutorial - Using Self-Hosted Wordpress.png",
+          "duration": 5,
+          "videoURL": "https://www.youtube.com/embed/VVL5CJtrq_w?si=Sdpzx4rmXnSTbGou",
+          "isNew": true
+        }
+      ]
+    },
+    "tips&tricks": {
+      "id": 1,
+      "playlistHeader": "SEO NEO Tips & Tricks",
+      "playlistSubHeader": "A series of videos with tips on how to use SEO Neo more effectively.",
+      "playlistData": [
+        {
+          "title": "Using Wizards",
+          "description": "Learn how to streamline your campaign creation process",
+          "thumbnail": "https://updater.seoneo.io/learn/Tips and Tricks - Using Wizards.jpg",
+          "duration": 3,
+          "videoURL": "https://www.youtube.com/embed/ue4dulRDXNo?si=EZE7cgqALyqj8KTo",
+          "isNew": true
+        },
+        {
+          "title": "Campaign Linking",
+          "description": "Learn how to automate the running of your campaign in a seamless execution chain",
+          "thumbnail": "https://updater.seoneo.io/learn/Tips and Tricks - Campaign Linking.jpg",
+          "duration": 4,
+          "videoURL": "https://www.youtube.com/embed/qUbD08zApnU?si=V82Xtshc77Q67Mmh",
+          "isNew": false
+        },
+        {
+          "title": "Scraping Rich Content",
+          "description": "Learn how to scrap Images and Videos from the Web to inhance your Content",
+          "thumbnail": "https://updater.seoneo.io/learn/Tips and Tricks - Scraping Rich Content.jpg",
+          "duration": 3,
+          "videoURL": "https://www.youtube.com/embed/OqGiYd1P7JU?si=ZMNMPNUdTqsLzgUC",
+          "isNew": true
+        },
+        {
+          "title": "Using OpenAI for Content Buckets",
+          "description": "Learn how to generate OpenAI secret key (API key) and how to set it on SEO Neo.",
+          "thumbnail": "https://updater.seoneo.io/learn/Tips and Tricks - Using OpenAI for Content.jpg",
+          "duration": 3,
+          "videoURL": "https://www.youtube.com/embed/cVdeYw-PIuk?si=4-XZLiqeGqMwcCdw",
+          "isNew": false
+        },
+        {
+          "title": "Using Gmails",
+          "description": "Learn the basic about Accounts and Account Buckets",
+          "thumbnail": "https://updater.seoneo.io/learn/Tips and Tricks - Using Gmails.jpg",
+          "duration": 2,
+          "videoURL": "https://www.youtube.com/embed/6CWLaw8NGsg?si=y16IseekkB6ftwZF",
+          "isNew": false
+        },
+        {
+          "title": "The Right Way to Use Proxies",
+          "description": "Learn how to use Proxies the right way",
+          "thumbnail": "https://updater.seoneo.io/learn/Tips and Tricks - Using Proxies.jpg",
+          "duration": 2,
+          "videoURL": "https://www.youtube.com/embed/TyNOtjwPlU4?si=XoK08Cm8qcuNnPE6",
+          "isNew": false
+        },
+        {
+          "title": "How to Export Debug Report",
+          "description": "Learn how to export the Debug report for better customer service",
+          "thumbnail": "https://updater.seoneo.io/learn/Tips and Tricks - Export Debug Report.jpg",
+          "duration": 2,
+          "videoURL": "https://www.youtube.com/embed/gOXJ4JNYPNk?si=jQLzHfp12ehOrIPb",
+          "isNew": false
+        },
+        {
+          "title": "How to Import Accounts From SEO AP",
+          "description": "Learn how to import existing accounts from SEO Autopilot to SEO Neo",
+          "thumbnail": "https://updater.seoneo.io/learn/Tips and Tricks - Import Accounts From SEO AP.jpg",
+          "duration": 2,
+          "videoURL": "https://www.youtube.com/embed/uhZbb9Ps6W8?si=-U_KRSYcFGTxl13Y",
+          "isNew": false
+        },
+        {
+          "title": "Migrating Your Installation",
+          "description": "Learn where to locate the 'seoneo' folder that holds all your crucial SEO Neo information such as campaigns, accounts, diagrams, and more.",
+          "thumbnail": "https://updater.seoneo.io/learn/Tips and Tricks - Migrating Installation.jpg",
+          "duration": 1,
+          "videoURL": "https://www.youtube.com/embed/0Gfi0KZekM8?si=6dkchRECx372Ik24",
+          "isNew": false
+        }
+      ]
+    }
+  },
+  "webinarData": {
+    "title": "New Year Webinar",
+    "header": "<h3>New Year Webinar</h3>",
+    "description": "<h3>Double Your Page 1 Visibility in 30 Days</h3><p></p><p>What if you could <strong>reliably double your Page 1 visibility</strong> in the next <strong>30 days</strong> without chasing every new SEO trick or praying for backlinks to stick?</p><p>The Red to Green Method is a battle-tested system designed to eliminate your search competitors, not just outrank them.</p><h3>Live Training: The Red to Green Method</h3><p></p><p>Join <strong>Elias</strong> and <strong>Michael Merlino</strong> on Tuesday, December 23rd at 3:00 PM Eastern for a live, deep-dive training.</p><p>In this session, they will unpack the complete Red to Green Method, covering everything from high-level strategy to the exact <em>\"wizard combinations\"</em> they use to turn underperforming pages into consistent traffic and revenue drivers.</p><ul><li>Identify pages stuck in the \"red\" and move them into the \"green\"</li><li>Neutralize competitors without relying on risky tactics</li><li>Apply proven on-page and SERP-level optimizations that work fast</li></ul><p><strong>This is not theory.</strong> It’s a repeatable system used to win competitive searches.</p>",    
+    "url": "https://us06web.zoom.us/webinar/register/8917655390629/WN_q4V9lftXRauzyoR1LjJhqg",
+    "releaseDate": 1766520000,
+    "isActive": true
+  }
+}
